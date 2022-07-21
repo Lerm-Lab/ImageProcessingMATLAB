@@ -1,5 +1,7 @@
 # Image acquisition from live cell image instrument (IncuCyte®) and processed in MATLAB to acquire desired frames and export into a video format.
 
+Check for [Latest Version](https://github.com/JD2112/Alveolar-Cell-Type-Deconvolution)
+
 ## Reuired files
 1. Sequential images from the IncuCyte® should be in the local folder
 
